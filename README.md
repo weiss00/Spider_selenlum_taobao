@@ -1,0 +1,2 @@
+# Spider_selenlum_taobao
+利用selenium和无头chrome浏览器爬取淘宝美食并传入mongodb中
